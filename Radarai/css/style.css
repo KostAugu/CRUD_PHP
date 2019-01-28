@@ -1,0 +1,67 @@
+th, td {
+    line-height: 40px;
+}
+
+.tableButton {
+    height: 35px;
+    width: 35px;
+}
+
+h2 {
+    
+    text-align: center;
+}
+
+#frontDiv {
+    height: 150px;
+}
+.wrapper {
+    margin-top: 50px;
+}
+
+i {
+    margin-left: -10px;
+    margin-top:-19px;
+    font-size: 25px;
+    height: 25px;
+    vertical-align: middle;
+}
+
+.tableButton span {
+    line-height: 35px;
+}
+
+
+.modal-dialog {
+    max-width: 50%;
+}
+
+.error {
+    color:  red;
+}
+.success {
+    color: rgb(52, 231, 52);
+    text-align: center;
+}
+
+#deleteEntry {
+    margin-right: 10%;
+}
+
+#pagination a {
+    color: grey;
+}
+
+#pagination .active {
+    background: #666;
+    color: #fff;
+    border-radius: 3px;
+}
+
+#pagination .disabled {
+    background: rgba(149, 148, 148, 0.924);
+}
+
+.hidden {
+    display: none;
+}
